@@ -93,8 +93,10 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > npm start
 ```
 
-### EDITOR & PROPIETARIO DEL BOT
-<a href="https://github.com/AzamiJs"><img src="https://github.com/AzamiJs.png" width="250" height="250" alt="Azami19"/></a>
+### ESITORES & PROPIETARIOS DEL BOT
+<a 
+  href="https://github.com/AzamiJs"><img src="https://github.com/AzamiJs.png" width="200" height="200" alt="Azami19"/>
+  </a>href="https://github.com/AzamiJs"><img src="https://github.com/AzamiJs.png" width="200" height="200" alt="Azami19"/></a>
 
 #### COLABORADORES 
 <a href="https://github.com/AzamiJs/CuriosityBot-MD/graphs/contributors">
