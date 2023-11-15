@@ -95,8 +95,8 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
 ### ESITORES & PROPIETARIOS DEL BOT
 <a 
-  href="https://github.com/AzamiJs"><img src="https://github.com/AzamiJs.png" width="200" height="200" alt="Azami19"/>
-  src="https://github.com/AzamiJs.png" width="200" height="200" alt="Azami19"/></a>
+  href="https://github.com/TIKIof"><img src="https://github.com/TIKIof.png" width="200" height="200" alt="TIKIof"/>
+  
 
 #### COLABORADORES 
 <a href="https://github.com/AzamiJs/CuriosityBot-MD/graphs/contributors">
