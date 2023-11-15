@@ -93,10 +93,13 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > npm start
 ```
 
-### ESITORES & PROPIETARIOS DEL BOT
+### EDITORES & PROPIETARIOS DEL BOT
 <a 
   href="https://github.com/TIKIof"><img src="https://github.com/TIKIof.png" width="200" height="200" alt="TIKIof"/>
-  
+
+
+  href="https://github.com/TIKIof"><img src="https://github.com/azamijs.png" width="200" height="200" alt="azamijs"/>
+
 
 #### COLABORADORES 
 <a href="https://github.com/AzamiJs/CuriosityBot-MD/graphs/contributors">
