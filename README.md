@@ -100,7 +100,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ***
 
 <img 
-                                   src="https://github.com/TIKIof.png" width="200" height="200" alt="TIKIof"/>
+                                   src="https://github.com/azamijs.png" width="200" height="200" alt="azamijs"/>
 
 #### COLABORADORES 
 <a href="https://github.com/AzamiJs/CuriosityBot-MD/graphs/contributors">
