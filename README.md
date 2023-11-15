@@ -98,7 +98,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
   href="https://github.com/TIKIof"><img src="https://github.com/TIKIof.png" width="200" height="200" alt="TIKIof"/>
 
 
-  href="https://github.com/TIKIof"><img src="https://github.com/azamijs.png" width="200" height="200" alt="azamijs"/>
+src="https://github.com/azamijs.png" width="200" height="200" alt="azamijs"/>
 
 
 #### COLABORADORES 
