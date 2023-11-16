@@ -1,6 +1,6 @@
 # Agromos Bot 🤖
 <p align="center">
-<img src="https://telegra.ph/file/1de45831f62519a4dac60.jpg" alt="CuriosityBot-MD" width="900"/>
+<img src="https://camo.githubusercontent.com/4f75088589b6d02d3c553ae75fce663dee09c76c1a467d5defee37d1f8939bfc/68747470733a2f2f692e7974696d672e636f6d2f76692f6e6b68567a78586e7553512f6d617872657364656661756c742e6a7067.jpg" alt="CuriosityBot-MD" width="900"/>
 </p>
 
 <a href="https://github.com/azamijs/CuriosityBot-MD"><img title="Stars" src="https://img.shields.io/github/stars/azamijs/CuriosityBot-MD?color=ff4500&style=flat-square" /></a>
