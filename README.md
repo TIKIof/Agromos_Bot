@@ -3,15 +3,16 @@
 <div align="center">
 <img src="https://i.ytimg.com/vi/nkhVzxXnuSQ/maxresdefault.jpg" alt="agromosSpbot" width="500" />
 
-<a href="https://github.com/azamijs/CuriosityBot-MD"><img title="Stars" src="https://img.shields.io/github/stars/azamijs/CuriosityBot-MD?color=ff4500&style=flat-square" /></a>
-<a href="https://github.com/zhwzein/Killua-Zoldyck/network/members"><img title="Forks" src="https://img.shields.io/github/forks/azamijs/CuriosityBot-MD?color=ff4500&style=flat-square" /></a>
-<a href="https://github.com/zhwzein/Killua-Zoldyck/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/azamijs/CuriosityBot-MD?label=watchers&color=ff4500&style=flat-square" /></a> <br>
-
-
+<a href="https://github.com/TIKIof/Agromos_Bot"><img title="Stars" src="https://img.shields.io/github/stars/TIKIof/Agromos_Bot?color=ff4500&style=flat-square" /></a>
+<a href="https://github.com/zhwzein/Killua-Zoldyck/network/members"><img title="Forks" src="https://img.shields.io/github/forks/TIKIof/Agromos_Bot?color=ff4500&style=flat-square" /></a>
+<a href="https://github.com/zhwzein/Killua-Zoldyck/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/TIKIof/Agromos_Bot?label=watchers&color=ff4500&style=flat-square" /></a> <br>
+### Numero del Creador 
+<a href="http://wa.me/18178659441" target="blank"><img src="https://img.shields.io/badge/SNT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+> NO BOT
 <a href="https://www.youtube.com/@Azami_19">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
 </a>
-<a href="https://instagram.com/azami.19">
+<a href="https://instagram.com/agromosspbot?igshid=NzZlODBkYWE4Ng%3D%3D&utm_source=qr">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
