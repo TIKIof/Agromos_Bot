@@ -8,6 +8,9 @@
 <a href="https://github.com/TIKIof/Agromos_Bot"><img title="Stars" src="https://img.shields.io/github/stars/TIKIof/Agromos_Bot?color=ff4500&style=flat-square" /></a>
 <a href="https://github.com/zhwzein/Killua-Zoldyck/network/members"><img title="Forks" src="https://img.shields.io/github/forks/TIKIof/Agromos_Bot?color=ff4500&style=flat-square" /></a>
 <a href="https://github.com/zhwzein/Killua-Zoldyck/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/TIKIof/Agromos_Bot?label=watchers&color=ff4500&style=flat-square" /></a> <br>
+### `💚Si necesitas ayuda mandame mensaje sobre la instalación💚`
+<a href="http://wa.me/18178659441" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
+
 ### Numero del Creador 
 <a href="http://wa.me/18178659441" target="blank"><img src="https://img.shields.io/badge/SNT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 > NO BOT
